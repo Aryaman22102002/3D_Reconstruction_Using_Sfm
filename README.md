@@ -57,3 +57,9 @@ Bundle adjustment is performed using GTSAM:
 ### Sparse 3D Reconstruction After Bundle Adjustment
 
 <img width="735" height="644" alt="Screenshot from 2025-11-20 15-18-35" src="https://github.com/user-attachments/assets/6cae5729-243b-4424-9ef5-dc174a8c4c84" />
+
+
+### Quantitative Results
+- Reprojection error before Bundle Adjustment = 1.28 px
+- Reprojection error after Bundle Adjustment = 0.55 px
+- A reduction of approximately 57% in the reprojection error. 
